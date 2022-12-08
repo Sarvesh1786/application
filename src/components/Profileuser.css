@@ -1,0 +1,10 @@
+.userfile {
+  display: flex;
+  margin-top: "12%";
+  justify-content: flex-start;
+  background-size: cover;
+  background-image: url("https://demos.creative-tim.com/material-kit-react/static/media/bg-presentation.88963029.jpg");
+  background-repeat: no-repeat;
+  width: 1400px;
+  height: 635px;
+}
